@@ -1,0 +1,3 @@
+/home/husseinhashish/Desktop/fffff/CMakeFiles/rebuild_cache.dir
+/home/husseinhashish/Desktop/fffff/CMakeFiles/edit_cache.dir
+/home/husseinhashish/Desktop/fffff/CMakeFiles/CalculatorApp.dir

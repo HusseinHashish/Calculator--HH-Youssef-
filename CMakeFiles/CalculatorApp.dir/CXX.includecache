@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/husseinhashish/Desktop/fffff/calculator.cpp
+calculator.h
+/home/husseinhashish/Desktop/fffff/calculator.h
+cstdlib
+-
+ctime
+-
+
+/home/husseinhashish/Desktop/fffff/calculator.h
+string
+-
+
+/home/husseinhashish/Desktop/fffff/test.cpp
+calculator.h
+/home/husseinhashish/Desktop/fffff/calculator.h
+iostream
+-
+
